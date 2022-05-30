@@ -12,7 +12,8 @@
   "dependencies": {
     "electron": "^17.1.0",
     "jquery": "^3.6.0",
-    "promise-mysql": "^5.2.0"
+    "promise-mysql": "^5.2.0",
+    "sqlite3": "^5.0.8"
   },
   "devDependencies": {
     "electron-reload": "^2.0.0-alpha.1"
